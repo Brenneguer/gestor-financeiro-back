@@ -1,0 +1,1 @@
+alter table usuario add column ind_deletado boolean not null default false after senha;
